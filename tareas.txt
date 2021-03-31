@@ -1,3 +1,5 @@
 Tareas Fernando:
+- Crear el primer controlador
+- Armar configuracion para conectarse a la base de datos en Maven
 
 Tareas Mayra:
